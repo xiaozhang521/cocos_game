@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "walk_to_talk",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.1,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9e3aa11e-ade1-4b32-b70b-0f962c050911"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "4748d813-6e4e-48ab-a884-4874f2365aba"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "582fe7ff-1d2d-41ce-9125-9a5266f2039c"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "50852eae-dca2-4c37-97d9-154f806348cf"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "aa98374d-4a39-4c51-b48b-935658f87f53"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "aa98374d-4a39-4c51-b48b-935658f87f53"
+            }
+          },
+          {
+            "frame": 1.8,
+            "value": {
+              "__uuid__": "6e374c32-8470-4489-bec5-afee83d03f2d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2.1,
+      "func": "startTalk",
+      "params": []
+    }
+  ]
+}

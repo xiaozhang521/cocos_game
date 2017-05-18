@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "drag_Out",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e9a9d658-2430-4ab4-80a8-1ce69adaa410"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "04618ab3-20ac-4347-8aad-4d5fcfdbe9dd"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "3c083239-661d-44c4-aa07-ba100668d1dd"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0.6,
+          "value": 255
+        },
+        {
+          "frame": 1.2,
+          "value": 20
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 1.2,
+      "func": "end_Scene",
+      "params": []
+    }
+  ]
+}

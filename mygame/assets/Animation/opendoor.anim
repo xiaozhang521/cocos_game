@@ -1,0 +1,114 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "opendoor",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.95,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "416421c2-9cd3-4996-882a-c5f09679a7ad"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "9ac6369f-412f-4abe-bd65-1791f7bb9102"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "711c8dd0-e1bd-4afd-90f8-14ecb3371027"
+            }
+          },
+          {
+            "frame": 0.45,
+            "value": {
+              "__uuid__": "46a25bbe-0989-4b02-830b-3aa4fde85fd6"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "e834ed03-611e-462c-afc7-0c9ac8a86b22"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "2c6860ea-bacd-4f48-9f54-ab62d94ad3e6"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "14d5e509-b112-4e9a-8ade-185325f31943"
+            }
+          },
+          {
+            "frame": 1.05,
+            "value": {
+              "__uuid__": "67ea7422-4203-4503-9591-3d12385a3285"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "2b4ac7d4-f0aa-44e1-b2b6-e566dc39811a"
+            }
+          },
+          {
+            "frame": 1.35,
+            "value": {
+              "__uuid__": "eb6d2040-0caa-4f85-ab12-f227b6ad063b"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "ee2f5532-486f-47a4-b8a2-485e50f8297f"
+            }
+          },
+          {
+            "frame": 1.65,
+            "value": {
+              "__uuid__": "c086936d-b216-432a-acf2-8b2a76fe2bb0"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 1.5,
+          "value": 255
+        },
+        {
+          "frame": 1.95,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 1.95,
+      "func": "onAnimCompleted",
+      "params": []
+    },
+    {
+      "frame": 1.95,
+      "func": "",
+      "params": []
+    }
+  ]
+}
